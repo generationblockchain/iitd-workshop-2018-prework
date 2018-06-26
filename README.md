@@ -5,6 +5,7 @@
 _Link:_  [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
 
+
 **Install “Truffle” for node.js**
 
 We will use Truffle to publish smart contracts.
@@ -13,16 +14,19 @@ Installing Truflfe is as easy as typing "npm install -g truffle"
 _Link:_  [https://truffleframework.com/docs/getting_started/installation](https://truffleframework.com/docs/getting_started/installation)
 
 
+
 **Install Ganache**
 
 We will use this to run a personal blockchain on our own laptops
 
 _Link:_ [https://truffleframework.com/ganache/](https://truffleframework.com/ganache/)
 
+
   
 **Install Chrome browser, if you don't already have it**
 
 _Link:_ [https://www.google.com/chrome/](https://www.google.com/chrome/)  
+
 
 
 **Install Chrome extension "Metamask"**
@@ -32,6 +36,7 @@ You must have Chrome browser installed prior to this step. Open the link using C
 
 _Link:_ [https://metamask.io/](https://metamask.io/)
  
+ 
 
 **Install Visual Studio, a free and awesome code editor**
 
@@ -39,10 +44,12 @@ _Link:_ [https://visualstudio.microsoft.com/downloads/](https://visualstudio.mic
 You can also use  [Sublime Text](https://www.sublimetext.com/),  [Atom](https://atom.io/), or any other editor of your choice
 
 
+
 **Install Solidity plugin for Visual Studio (or your code editor of choice)**
 
 _Instructions:_ [https://davidburela.wordpress.com/2016/11/18/configuring-visual-studio-code-for-ethereum-blockchain-development/](https://davidburela.wordpress.com/2016/11/18/configuring-visual-studio-code-for-ethereum-blockchain-development/)
 
+  
   
 **[Advanced users only] Install Geth**
 
