@@ -11,7 +11,7 @@ _Link:_  [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 We will use Truffle to publish smart contracts.
 Installing Truflfe is as easy as typing "npm install -g truffle"
 
-_Link:_  [https://truffleframework.com/docs/getting_started/installation](https://truffleframework.com/docs/getting_started/installation)  
+_Link:_  [https://truffleframework.com/docs/getting_started/installation](https://truffleframework.com/docs/getting_started/installation)
 <br />
 <br />
 
@@ -25,7 +25,7 @@ _Link:_ [https://truffleframework.com/ganache/](https://truffleframework.com/gan
   
 **Install Chrome browser, if you don't already have it**
 
-_Link:_ [https://www.google.com/chrome/](https://www.google.com/chrome/)  
+_Link:_ [https://www.google.com/chrome/](https://www.google.com/chrome/)
 <br />
 <br />
 
